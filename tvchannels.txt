@@ -2,10 +2,6 @@
 河南都市,http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
 河南法治,http://123.163.119.21:9601/live/live4/500K/tzwj_video.m3u8
 河南公共,http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
-河南国际,http://123.163.119.21:9601/live/live10/500K/tzwj_video.m3u8
-河南欢腾购物,http://123.163.119.21:9601/live/live7/500K/tzwj_video.m3u8
-河南睛彩中原,http://117.158.206.60:9080/live/live30_tzwj_500k.m3u8
-河南睛彩中原,http://123.163.119.21:9601/live/live11/500K/tzwj_video.m3u8
 河南梨园,http://123.161.103.14:1935/live/1004.stream/playlist.m3u8
 河南民生,http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8
 河南民生,http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
@@ -17,4 +13,3 @@
 河南卫视,http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
 河南卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
 河南卫视HD,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-河南新农村,http://123.163.119.21:9601/live/live9/500K/tzwj_video.m3u8
