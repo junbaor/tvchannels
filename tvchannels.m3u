@@ -1,0 +1,105 @@
+<<<<<<< HEAD
+#EXTM3U
+#EXTINF:-1 ,河南卫视HD
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1 ,河南都市
+http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南电视剧
+http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南公共
+http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南梨园
+http://123.161.103.14:1935/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,移动戏曲
+http://117.158.206.60:9080/live/live31_tzwj_500k.m3u8
+#EXTINF:-1 ,河南新农村
+http://123.163.119.21:9601/live/live9/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南新闻
+http://123.163.119.21:9601/live/live6/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南民生
+http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南卫视
+http://117.169.72.6:8080/ysten-businessmobile/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://hnzc.chinashadt.com:1936/zhibo/stream:3.stream/playlist.m3u8
+#EXTINF:-1 ,河南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
+#EXTINF:-1 ,河南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://h5live.gslb.cmvideo.cn/wd-henanwssd-350/index.m3u8?msisdn=b4c2014c20db4e5bb68bdc0d3f2518bf&mdspid=&spid=800033&netType=0&sid=5500371191&pid=2028597139&timestamp=20190210193931&Channel_ID=1004_10010001005&ProgramID=635489820&ParentNodeID=-99&assertID=5500371191&client_ip=139.227.235.55&SecurityKey=20190210193931&promotionId=&mvid=&mcid=&mpid=&encrypt=c056681d45b9fd943fffc0ddcdfb8c82
+#EXTINF:-1 ,河南都市
+http://live.hntv.tv:9602/live/live2/500k/tzwj_video.m3u8?KEY1=21a06ae549b09e498a9c33eb497b8fb3&KEY2=5c601110
+#EXTINF:-1 ,河南公共
+http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=a9137e0e4089145cf8cf7980da020ef3&KEY2=5c6011a0
+#EXTINF:-1 ,河南公共
+http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=67c4e86f6a032d3f434dae8d51c09c08&KEY2=5c6011c1
+#EXTINF:-1 ,河南公共
+http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南梨园
+http://123.161.103.14:1935/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,河南梨园
+http://117.158.206.60:9080/live/lypd.m3u8
+#EXTINF:-1 ,河南民生
+http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8
+#EXTINF:-1 ,河南民生
+http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
+=======
+#EXTM3U
+#EXTINF:-1 ,河南卫视HD
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1 ,河南都市
+http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南电视剧
+http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南公共
+http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南梨园
+http://123.161.103.14:1935/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,移动戏曲
+http://117.158.206.60:9080/live/live31_tzwj_500k.m3u8
+#EXTINF:-1 ,河南新农村
+http://123.163.119.21:9601/live/live9/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南新闻
+http://123.163.119.21:9601/live/live6/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南民生
+http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南卫视
+http://117.169.72.6:8080/ysten-businessmobile/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://hnzc.chinashadt.com:1936/zhibo/stream:3.stream/playlist.m3u8
+#EXTINF:-1 ,河南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8
+#EXTINF:-1 ,河南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://h5live.gslb.cmvideo.cn/wd-henanwssd-350/index.m3u8?msisdn=b4c2014c20db4e5bb68bdc0d3f2518bf&mdspid=&spid=800033&netType=0&sid=5500371191&pid=2028597139&timestamp=20190210193931&Channel_ID=1004_10010001005&ProgramID=635489820&ParentNodeID=-99&assertID=5500371191&client_ip=139.227.235.55&SecurityKey=20190210193931&promotionId=&mvid=&mcid=&mpid=&encrypt=c056681d45b9fd943fffc0ddcdfb8c82
+#EXTINF:-1 ,河南都市
+http://live.hntv.tv:9602/live/live2/500k/tzwj_video.m3u8?KEY1=21a06ae549b09e498a9c33eb497b8fb3&KEY2=5c601110
+#EXTINF:-1 ,河南公共
+http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=a9137e0e4089145cf8cf7980da020ef3&KEY2=5c6011a0
+#EXTINF:-1 ,河南公共
+http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=67c4e86f6a032d3f434dae8d51c09c08&KEY2=5c6011c1
+#EXTINF:-1 ,河南公共
+http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
+#EXTINF:-1 ,河南梨园
+http://123.161.103.14:1935/live/1004.stream/playlist.m3u8
+#EXTINF:-1 ,河南梨园
+http://117.158.206.60:9080/live/lypd.m3u8
+#EXTINF:-1 ,河南民生
+http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8
+#EXTINF:-1 ,河南民生
+http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
+>>>>>>> 0430b94854808dc7d7504121b135384c13e8f571
