@@ -17,3 +17,6 @@
 河南公共,http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=67c4e86f6a032d3f434dae8d51c09c08&KEY2=5c6011c1
 河南公共,http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
 河南民生,http://123.163.119.21:9601/live/live3/500K/tzwj_video.m3u8
+河南卫视tvbus,tvbus://12mFy7H8tz5XzYDGtqfcD8WocKVaHK7qFnm82siW
+河南卫视cjzb,sop://127.0.0.1:3912/60#tvbus://12mFy7H8tz5XzYDGtqfcD8WocKVaHK7qFnm82siW,tvming-HeNanTV
+河南卫视gitv,http://223.110.241.139:6610/gitv/live1/HENAN/
