@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1,河南卫视
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 
