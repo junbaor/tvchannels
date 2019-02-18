@@ -1,4 +1,4 @@
-河南卫视,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+﻿河南卫视,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 河南卫视,http://hnzc.chinashadt.com:1936/zhibo/stream:3.stream/playlist.m3u8
 河南都市,http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
 河南电视剧,http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8
@@ -28,3 +28,4 @@
 河南电视剧,http://cbn-pb.cbchot.com/live/ch054_1.m3u8
 河南法制,http://cbn-pb.cbchot.com/live/ch055_1.m3u8
 河南卫视,http://cbn-pb.cbchot.com/live/ch086_1.m3u8
+河南卫视,http://223.110.242.130:6610/cntv/live1/henanstv/henanstv
