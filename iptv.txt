@@ -38,7 +38,7 @@
             "Category": "= 河南 =",
             "id": 4,
             "name": "河南电视剧",
-            "httpurl": "http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8",
+            "httpurl": "http://cbn-pb.cbchot.com/live/ch054_1.m3u8#http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8",
             "hotlink": "",
             "logo": "",
             "epg": "",
