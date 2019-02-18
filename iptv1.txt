@@ -1,4 +1,4 @@
-﻿﻿{
+{
     "ret": 0,
     "statu_info": "success",
     "accountype": 3,
@@ -153,6 +153,6 @@
             "logo": "",
             "epg": "",
             "enable": ""
-        },
+        }
     ]
 }
