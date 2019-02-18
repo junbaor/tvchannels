@@ -87,16 +87,6 @@
         {
             "Category": "河南",
             "id": 9,
-            "name": "河南新闻",
-            "httpurl": "http://cbn-pb.cbchot.com/live/ch053_1.m3u8",
-            "hotlink": "",
-            "logo": "",
-            "epg": "",
-            "enable": ""
-        },
-        {
-            "Category": "河南",
-            "id": 10,
             "name": "河南民生",
             "httpurl": "http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8",
             "hotlink": "",
@@ -106,7 +96,7 @@
         },
         {
             "Category": "河南",
-            "id": 11,
+            "id": 10,
             "name": "河南法制",
             "httpurl": "http://cbn-pb.cbchot.com/live/ch055_1.m3u8",
             "hotlink": "",
@@ -116,7 +106,7 @@
         },
         {
             "Category": "河南",
-            "id": 12,
+            "id": 11,
             "name": "河南卫视",
             "httpurl": "http://223.110.241.139:6610/gitv/live1/HENAN/",
             "hotlink": "",
@@ -126,7 +116,7 @@
         },
         {
             "Category": "河南",
-            "id": 13,
+            "id": 12,
             "name": "河南卫视",
             "httpurl": "http://hnzc.chinashadt.com:1936/zhibo/stream:3.stream/playlist.m3u8",
             "hotlink": "",
@@ -136,7 +126,7 @@
         },
         {
             "Category": "河南",
-            "id": 14,
+            "id": 13,
             "name": "河南卫视",
             "httpurl": "http://117.169.72.6:8080/ysten-businessmobile/live/henanstv/1.m3u8",
             "hotlink": "",
@@ -146,7 +136,7 @@
         },
         {
             "Category": "河南",
-            "id": 15,
+            "id": 14,
             "name": "河南卫视",
             "httpurl": "http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8",
             "hotlink": "",
@@ -156,7 +146,7 @@
         },
         {
             "Category": "河南",
-            "id": 16,
+            "id": 15,
             "name": "河南卫视",
             "httpurl": "http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8",
             "hotlink": "",
@@ -166,7 +156,7 @@
         },
         {
             "Category": "河南",
-            "id": 17,
+            "id": 16,
             "name": "河南卫视",
             "httpurl": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8",
             "hotlink": "",
@@ -176,7 +166,7 @@
         },
         {
             "Category": "河南",
-            "id": 18,
+            "id": 17,
             "name": "河南卫视",
             "httpurl": "http://cbn-pb.cbchot.com/live/ch086_1.m3u8",
             "hotlink": "",
@@ -186,7 +176,7 @@
         },
         {
             "Category": "河南",
-            "id": 19,
+            "id": 18,
             "name": "河南卫视",
             "httpurl": "http://223.110.242.130:6610/cntv/live1/henanstv/henanstv",
             "hotlink": "",
@@ -196,7 +186,7 @@
         },
         {
             "Category": "河南",
-            "id": 20,
+            "id": 19,
             "name": "河南都市",
             "httpurl": "http://live.hntv.tv:9602/live/live2/500k/tzwj_video.m3u8?KEY1=21a06ae549b09e498a9c33eb497b8fb3&KEY2=5c601110#http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8",
             "hotlink": "",
@@ -206,7 +196,7 @@
         },
         {
             "Category": "河南",
-            "id": 21,
+            "id": 20,
             "name": "河南电视剧",
             "httpurl": "http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8",
             "hotlink": "",
@@ -216,9 +206,19 @@
         },
         {
             "Category": "河南",
-            "id": 22,
+            "id": 21,
             "name": "河南公共",
             "httpurl": "http://live.hntv.tv:9602/live/live8/500k/tzwj_video.m3u8?KEY1=67c4e86f6a032d3f434dae8d51c09c08&KEY2=5c6011c1",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "河南",
+            "id": 22,
+            "name": "河南公共",
+            "httpurl": "http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8",
             "hotlink": "",
             "logo": "",
             "epg": "",
@@ -238,16 +238,6 @@
             "Category": "河南",
             "id": 24,
             "name": "河南公共",
-            "httpurl": "http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8",
-            "hotlink": "",
-            "logo": "",
-            "epg": "",
-            "enable": ""
-        },
-        {
-            "Category": "河南",
-            "id": 25,
-            "name": "河南公共",
             "httpurl": "http://cbn-pb.cbchot.com/live/ch025_1.m3u8",
             "hotlink": "",
             "logo": "",
@@ -256,9 +246,19 @@
         },
         {
             "Category": "河南",
-            "id": 26,
+            "id": 25,
             "name": "河南新农村",
             "httpurl": "http://cbn-pb.cbchot.com/live/ch023_1.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "河南",
+            "id": 26,
+            "name": "河南新闻",
+            "httpurl": "http://cbn-pb.cbchot.com/live/ch053_1.m3u8",
             "hotlink": "",
             "logo": "",
             "epg": "",
